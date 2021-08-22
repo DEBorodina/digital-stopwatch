@@ -8,4 +8,4 @@ Simple timer. Can be used to count seconds and minutes. *Stop*, *start* and *res
 - svg
 
 ### DEMO
-[Watch](https://deborodina.github.io/digital-stopwatch/)
+[Watch](https://github.com/DEBorodina/digital-timer )
