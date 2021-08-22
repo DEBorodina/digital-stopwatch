@@ -1,4 +1,4 @@
-# Digital stopwatch
+# Digital stopwatch :stopwatch:
 
 ### DESCRIPTION
 Simple stopwatch. Can be used to count seconds and minutes. *Stop*, *start* and *reset* buttons are provided.
